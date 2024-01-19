@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\Examination-System\Examination-System\bin\Debug\net8.0\Examination-System.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\Examination-System\Examination-System\bin\Debug\net8.0\Examination-System.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\Examination-System\Examination-System\bin\Debug\net8.0\Examination-System.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\Examination-System\Examination-System\bin\Debug\net8.0\Examination-System.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\Examination-System\Examination-System\bin\Debug\net8.0\Examination-System.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\Examination-System\Examination-System\obj\Debug\net8.0\Examination-System.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\Examination-System\Examination-System\obj\Debug\net8.0\Examination-System.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\Examination-System\Examination-System\obj\Debug\net8.0\Examination-System.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\Examination-System\Examination-System\obj\Debug\net8.0\Examination-System.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\Examination-System\Examination-System\obj\Debug\net8.0\Examination-System.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\Examination-System\Examination-System\obj\Debug\net8.0\refint\Examination-System.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\Examination-System\Examination-System\obj\Debug\net8.0\Examination-System.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\Examination-System\Examination-System\obj\Debug\net8.0\Examination-System.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\Examination-System\Examination-System\obj\Debug\net8.0\ref\Examination-System.dll
