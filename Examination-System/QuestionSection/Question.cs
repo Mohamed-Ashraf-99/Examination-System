@@ -1,6 +1,6 @@
 ﻿using Examination_System.AnswerType;
 
-namespace Examination_System.QuestionType;
+namespace Examination_System.QuestionSection;
 
 public  abstract class Question
 {
